@@ -21,7 +21,7 @@ Police speed radar gun with front/rear detection, plate locking, and remote cont
 
 ## License
 
-Copyright © 2024 Pulsar Framework. All rights reserved.
+Copyright © 2026 Pulsar Framework. All rights reserved.
 
 <div align="center">
 
